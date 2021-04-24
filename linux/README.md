@@ -13,14 +13,7 @@
 
 性能问题的本质，就是系统资源达到瓶颈，请求处理不够快，无法支撑更多的请求
 
-Application
-    |
-Libraries
-    |
-System Call
-    |
-Linux Kernel 
-    | 
-Device
+Application -> Libraries ->  System Call -> Linux Kernel ->  Device
 
-从上倒下， 应用负载的角度； 从下往上， 资源视角
+从上倒下， 应用负载的角度； 
+从下往上， 资源视角
