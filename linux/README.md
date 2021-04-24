@@ -17,3 +17,7 @@ Application -> Libraries ->  System Call -> Linux Kernel ->  Device
 
 从上倒下， 应用负载的角度； 
 从下往上， 资源视角
+
+
+### 学习 top 和 uptime 命令 
+
